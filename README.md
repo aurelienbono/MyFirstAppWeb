@@ -1,3 +1,3 @@
 # MyFirstAppWeb
 
-"Hello guys"
+*Hello guys , all my devs are in remote*
